@@ -1,0 +1,3 @@
+https://keras.io/examples/vision/video_classification/
+https://colab.research.google.com/github/sayakpaul/Action-Recognition-in-TensorFlow/blob/main/Data_Preparation_UCF101.ipynb
+https://velog.io/@rlaaltj1765/%EB%94%A5%EB%9F%AC%EB%8B%9D-input-data%EA%B0%80-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%B8-CNN-LSTM-%EB%AA%A8%EB%8D%B8-video-classification-%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C2
