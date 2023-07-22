@@ -337,7 +337,7 @@ def sequence_prediction(path):
             # arduino
             prd = f"  {class_vocab[i]}: {probabilities[i] * 100:5.2f}%"
             if (("rain" or "snow") in prd ) and  (float(prd[-6:-1]) >= 5) :
-                arduino.write(b'pistol detected\n')                
+                arduino.write(b'detected\n')                
             
             print(f"  {class_vocab[i]}: {probabilities[i] * 100:5.2f}%", file=f)
     return frames
